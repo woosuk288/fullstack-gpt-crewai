@@ -1,0 +1,13 @@
+{
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter",
+        "editor.formatOnSave": true,
+    },
+    "python.languageServer": "Pylance",
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.indexing": true,
+    // "prettier.requireConfig": true,
+    "notebook.formatOnSave.enabled": true,
+    "notebook.output.wordWrap": true,
+    "workbench.iconTheme": "vscode-icons"
+}
